@@ -4,5 +4,5 @@ The application was written in Python using several libraries like Tensorflow, K
 <b>GTSRB- German Traffic Sign Recognition Benchmark. Data set that was used for training and test process.<br></br> <br> DataSet structure:</br></b>
 ![Kaggle GTRSB structure info](https://user-images.githubusercontent.com/61508823/200118129-116f60ae-5230-48b7-b422-c5933d1650bf.png)
 
-<br>Sample screenshot of the application</br>
+<b><br>Sample screenshot of the application</br></b>
 ![zrzut ekranu apki](https://user-images.githubusercontent.com/61508823/200118130-e7462e55-8241-4ac2-aa08-e9ace40b56a4.png)
